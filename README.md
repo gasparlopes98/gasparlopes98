@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gasparlopes98
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning autoencoders
+- 📫 How to reach me: gasparlopes98@gmail.com
